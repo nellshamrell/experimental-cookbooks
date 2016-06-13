@@ -1,0 +1,7 @@
+name 'dragons4'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures dragons4'
+long_description 'Installs/Configures dragons4'
+version '0.1.0'

@@ -1,0 +1,7 @@
+name 'cookbook-1b'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures cookbook-1b'
+long_description 'Installs/Configures cookbook-1b'
+version '0.1.0'

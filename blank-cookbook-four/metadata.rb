@@ -1,0 +1,7 @@
+name 'blank-cookbook-four'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures blank-cookbook-four'
+long_description 'Installs/Configures blank-cookbook-four'
+version '0.1.0'

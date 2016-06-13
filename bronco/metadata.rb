@@ -1,0 +1,7 @@
+name 'bronco'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures bronco'
+long_description 'Installs/Configures bronco'
+version '0.1.0'

@@ -1,0 +1,7 @@
+name 'blank-cookbook-three'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures blank-cookbook-three'
+long_description 'Installs/Configures blank-cookbook-three'
+version '0.1.0'
